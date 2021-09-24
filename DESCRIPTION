@@ -1,6 +1,6 @@
 Package: R.testPackage
 Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9003
+Version: 0.0.0.9004
 Author: Terry Schutte
 Authors@R: c(
    person("Terry", "Schutte", email = "tschutte@gmail.com", role = c("aut", "cre")))
@@ -10,4 +10,4 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
-Date: 2021-09-24 15:47:46
+Date: 2021-09-24 15:47:46 UTC
